@@ -20,7 +20,7 @@ post_class: post-template
 
         <div class="col-md-9 flex-first flex-md-unordered">
             <div class="mainheading">
-
+{% comment %}
                 <!-- Author Box -->
                 {% if page.author %}
                 <div class="row post-top-meta">
@@ -37,7 +37,7 @@ post_class: post-template
                     </div>
                 </div>
                 {% endif %}
-
+{% endcomment %}
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
 
