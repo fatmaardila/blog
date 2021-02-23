@@ -5,6 +5,8 @@ author: fatma
 image: assets/images/3.jpg
 ---
 
+Say something first.
+
 ## Special formatting
 
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
