@@ -4,11 +4,13 @@ title: About
 permalink: /about
 ---
 
-Hello and welcome.
+Hello Good People,
+Welcome to my blog
 
-* something about me
-* something else
+* I am Indonesian who live in Bali. Originally from North Sumatra ( Medan ) city and I moved to Bali since March 2020. I will sharing my experiences about travel, culture and culinary. I hope you're happy to read all my story.
 
-I will edit this later.
+Lets keep contact with me
+Instagram : fatmaardila
 
-I write something more.
+Thank you 
+
